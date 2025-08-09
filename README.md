@@ -35,7 +35,8 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Hastipatel404?theme=dark&ext=contest)
 
 ### 💻 HackerRank
-[![HackerRank](https://img.shields.io/badge/HackerRank-View%20Profile-green?logo=HackerRank&style=for-the-badge)](https://www.hackerrank.com/hastigarala2524)
+![HackerRank](https://img.shields.io/badge/HackerRank-View%20Profile-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/hastigarala2524)
+
 
 ---
 
