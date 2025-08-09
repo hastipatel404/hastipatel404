@@ -32,7 +32,7 @@
 ## 📊 Coding Profiles
 
 ### 🏆 LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Hastipatel404?theme=dark&ext=contest)
 
 ### 💻 HackerRank
 [![HackerRank](https://img.shields.io/badge/HackerRank-View%20Profile-green?logo=HackerRank&style=for-the-badge)](https://www.hackerrank.com/hastigarala2524)
